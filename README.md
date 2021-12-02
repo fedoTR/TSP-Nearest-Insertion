@@ -7,5 +7,3 @@ A raw implementation of the nearest insertion algorithm to resolve TSP problems 
 3. [Example FIle](https://github.com/sjas666/TSP-Nearest-Insertion/blob/main/examplefile/5nodes.txt)
 4. Execute first the format.py file and then the another.py                                     
 5. **DON'T EXECUTE AGAIN THE format.py FILE AGAIN, IT WILL REWRITES THE FILE**
-
-###  This is a raw implementation, so, it is not perfect
